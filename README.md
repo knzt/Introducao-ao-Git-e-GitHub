@@ -4,7 +4,7 @@
 
 ## Conteúdo
 <ol>
-<li>Introdução Ao git e ao GitHub
+<li>Introdução ao Git e ao GitHub
    <ol>
   <li>Git≠Github: Conceitos</li>
   <li>Comandos mais usados</li>
