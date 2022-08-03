@@ -6,11 +6,15 @@
 <ol>
 <li>Introdução ao Git e ao GitHub
    <ol>
-  <li>Git≠Github: Conceitos</li>
+  <li>Git≠GitHub: Conceitos</li>
   <li>Comandos mais usados</li>
   <li>Configurações</li>
-  <li>Repositório local</li>
-  <li>Repositório remoto<?li>
+  <li>Repositórios</li>
+      <ol>
+      <li>Conceitos indispensáveis</li>
+      <li>Repositório local</li>
+      <li>Repositório remoto</li>
+      </ol>
     </ol>
 </li>
 </ol>
