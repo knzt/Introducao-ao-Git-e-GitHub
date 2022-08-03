@@ -1,1 +1,4 @@
-conceitos
+## <p align=center> Git≠GitHub: Conceitos </P>
+<p> O Git é um <em>Sistema de Controle de Versões Distribuído</em>, através das ferramentas do Git você pode criar repositórios e ter controle das diferentes versões que surgem a cada alteração, e também pode fazer com que as alterações feitas nos diretórios nos quais trabalha em sua máquina pessoal sejam registradas em um repositório remoto, e vice-versa. </p> 
+<br>
+<p> O GitHub é uma <em>plataforma online de controle de versões</em>, que funciona como uma rede social na qual é possível não apenas registrar seus projetos e organizar as diferentes versões como também desenvolver e fazer parte de projetos colaborativos. Devido a essa semelhança com uma rede social, uma vez que é possível buscar por diferentes usuários e ter acesso aos seus trabalhos públicos, <strong>o GitHub é também usado como portfólio<strong>. </p>
